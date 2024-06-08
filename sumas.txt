@@ -1,0 +1,4 @@
+debes sumar tres numeros enteros
+3+4+6
+la suma es 13
+realiza una resta
